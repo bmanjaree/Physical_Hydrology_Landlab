@@ -6,4 +6,4 @@ Taught by: Prof Erkan Istanbulluoglu
 TA: Manjaree Binjolkar
 
 
-This repository is for tutorial of LandLab for the CEE course. Landlab is a python toolkit developed for modelling earth processes. More information can be found at http://landlab.github.io/#/.
+This repository contains LandLab tutorials for the CEE course. Landlab is a Python toolkit for simulating earth processes. More details are available at http://landlab.github.io/#/.
